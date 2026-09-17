@@ -26,9 +26,12 @@ My research focuses on the ecology and evolution of microbial communities, with 
 ## Current Position
 
 **MSCA Postdoctoral Fellow**  
-Environmental Microbiome Engineering Laboratory  
-Department of Microbial and Molecular Systems (M2S)  
-KU Leuven, Belgium
+Department of Earth and Environmental Sciences
+Division Soil & Water Management
+Kasteelpark Arenberg 20 - box 2459
+3001 Leuven
+Belgium
+
 
 ## Research Vision
 
@@ -37,13 +40,4 @@ Microbial communities play critical roles in agriculture, ecosystem functioning,
 ## Funding
 
 - Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship
-- European Commission
 
-## Links
-
-- [Google Scholar](#)
-- [ORCID](#)
-- [GitHub](#)
-- [Curriculum Vitae](/files/CV_JBelgium
-
-Email: jasper.schierstaedt@kuleuven.be
