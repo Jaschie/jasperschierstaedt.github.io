@@ -1,13 +1,15 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Jasper:
+  name        : "Jasper Schierstaedt"
+  uri         : "https://scholar.google.com/"
+  email       : "jasper.schierstaedt@kuleuven.be"
+  bio         : "MSCA Postdoctoral Fellow at KU Leuven studying mobile genetic elements, microbial evolution, and environmental microbiome engineering."
+  avatar      : "schierstaedt.png"
+  location    : "Leuven, Belgium"
+  employer    : "KU Leuven"
+  googlescholar : "https://scholar.google.com/citations?user=EK6allwAAAAJ&hl=de"
+  orcid       : "https://orcid.org/0000-0002-7910-9118"
 
 Name2 Name2:
   name        : "Name2 Name2"
